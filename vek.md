@@ -2,7 +2,7 @@
 
 Bir vektör, yön ve büyüklük (magnitude) bilgisi taşıyan bir ölçümdür.
 
-![Null](file:///C:/Users/ruzga/Desktop/math/null.png)
+![Null](file://C:/Users/ruzga/Desktop/math/null.png)
 
 Üç boyutlu bir ortamda x,y,z eksenleri üzerinden üstteki gibi bir vektör çizebiliriz. Bu vektör (ok istikametinde) bir yönü gösteriyor, ayrıca bir büyüklüğü de var. Vektörü bu eksenler içinde çizince, o vektörü her eksendeki yasımasına göre temsil edebilirim demektir; x yönünde ne kadar değişim var, y yönünde ne kadar değişim var ve z yönünde ne kadar değişim var, vs. gibi.
 
